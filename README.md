@@ -26,7 +26,7 @@ The Style Transfer process in this project is a unique two-stage process, focuse
 
 This innovative approach successfully balances the challenges of style transfer, ensuring that the final image retains the unique artistic style of the original portrait while incorporating the distinctive features of the input face image. This method brings a fresh perspective to the application of computational photography in the field of art and creates exciting possibilities for the fusion of traditional artistic techniques and modern AI-driven processes. 
 
-To learne more abour style transfer process see [project's documentation](https://github.com/OlaPietka/Portrait-Style-Tranfer/blob/main/Portrait%20Face%20Swap%20%26%20Style%20Transfer.pdf).
+To learn more about style transfer process see [project's documentation](https://github.com/OlaPietka/Portrait-Style-Tranfer/blob/main/Portrait%20Face%20Swap%20%26%20Style%20Transfer.pdf).
 
 ## Installation and Usage
 The project is implemented in Python. To install necessary dependencies, run:
