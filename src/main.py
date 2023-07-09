@@ -111,7 +111,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("-o", "--output_image", type=str, required=True)
     parser.add_argument("-s", "--source_image", type=str, required=True)
-    parser.add_argument("-t", "--tagret_image", type=str, required=True)
+    parser.add_argument("-t", "--target_image", type=str, required=True)
     parser.add_argument("-p", "--predictor", type=str, default="data/shape_predictor_68_face_landmarks.dat")
     args = parser.parse_args()
 
