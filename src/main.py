@@ -116,7 +116,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     source_img = get_image(args.source_image)
-    target_img = get_image(args.tagret_image)
+    target_img = get_image(args.target_image)
 
     swapped_img, mask_img, bbox_points = face_swap(source_img, target_img, args.predictor)
 
